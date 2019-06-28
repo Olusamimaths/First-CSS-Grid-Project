@@ -1,0 +1,19 @@
+@media all and (max-width: 540px){
+    .container {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        grid-template-areas: 
+            "logo"
+            "menu"
+            "content"
+            "sidebar"
+            "sponsors"
+            "footer";
+        grid-gap: 2rem 0;
+    }
+
+    .main-menu {
+        justify-self: start;
+    }
+
+}

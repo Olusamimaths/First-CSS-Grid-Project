@@ -1,0 +1,15 @@
+@import url("./Base/common.css");
+@import url("./Component/main-header.css");
+@import url("./Component/container.css");
+@import url("./Component/content-area.css");
+@import url("./Component/footer.css");
+@import url("./Component/logo.css");
+@import url("./Component/main-menu.css");
+@import url("./Component/sidebar.css");
+@import url("./Component/sponsors-wrapper.css");
+
+/*Media Queries*/
+
+@import url("./Component/RWD/l-screens.css");
+@import url("./Component/RWD/m-screens.css");
+@import url("./Component/RWD/sm-screens.css");

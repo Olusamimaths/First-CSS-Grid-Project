@@ -1,0 +1,8 @@
+@media all and (max-width: 992px){
+    .container {
+        margin: 0 1rem;
+    }
+    .sponsors {
+        grid-column-gap: 0.5rem;
+    }
+}

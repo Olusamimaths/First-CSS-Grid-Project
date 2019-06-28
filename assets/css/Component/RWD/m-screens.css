@@ -1,0 +1,18 @@
+@media all and (max-width: 768px){
+    html {
+        font-size: 14px;
+    }
+    .sponsors {
+        grid-template-columns: 1fr;
+        grid-column-gap: 0;
+        grid-row-gap: 1rem;
+    }
+    .container {
+        grid-template-areas: 
+            "logo menu menu"
+            "content content content"
+            "sidebar sidebar sidebar"
+            "footer footer footer"
+    }
+    
+}

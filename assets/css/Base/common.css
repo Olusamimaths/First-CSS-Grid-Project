@@ -1,0 +1,18 @@
+/* common styles */
+* {
+    box-sizing: border-box;
+}
+html {
+    font-size: 16px;
+    font-family: Georgia, serif;
+}
+body {
+    background-color: #fbfbfb;
+}
+h1, h2, h3 {
+    margin-top: 0;
+}
+
+main p {
+    margin-bottom: 0;
+}
